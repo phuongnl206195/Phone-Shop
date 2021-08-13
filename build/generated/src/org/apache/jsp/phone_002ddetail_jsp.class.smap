@@ -1,0 +1,26 @@
+SMAP
+phone_002ddetail_jsp.java
+JSP
+*S JSP
+*F
++ 0 phone-detail.jsp
+phone-detail.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,38:50
+5#1,68:88
+42#0,42:155
+84:197,3
+85,6:200
+91:206,3
+92:209
+93:210,3
+94,21:213
+115:234,3
+116,18:237
+5#2,74:255
+133#0,21:329
+*E
